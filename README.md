@@ -1,3 +1,6 @@
+![P2P Trustless Interaction](documentation/assets/images/DID1.png)
+
+![Decentralised Identity & Attestations](documentation/assets/images/DID2.png)
 https://gizzo.xyz
 
 # ChainID
