@@ -1,3 +1,5 @@
+https://gizzo.xyz
+
 # ChainID
 
 We believe in a decentralised self sovereign identity. All entities hold & control there own data, request verifiable credentials and issue reusable credentials.
